@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGA,IAAI,CACF,KAAK,CAAE,IAAI,CACX,UAAU,CAAE,YAAY",
+"sources": ["../front/styles/screen.sass"],
+"names": [],
+"file": "screen.css"
+}
