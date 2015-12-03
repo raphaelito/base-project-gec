@@ -40,13 +40,16 @@ Project Root/
 ├── package.json
 └── README.md
 
-## Instalar
+
+
+### Instalar
+
 
 ```bash
 $ npm install
 ```
 
-## Ejecutar
+### Ejecutar
 
 ```bash
 $ gulp
