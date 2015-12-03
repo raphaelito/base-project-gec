@@ -39,3 +39,15 @@ Project Root/
 ├── gulpfile.js
 ├── package.json
 └── README.md
+
+## Instalar
+
+```bash
+$ npm install
+```
+
+## Ejecutar
+
+```bash
+$ gulp
+```
