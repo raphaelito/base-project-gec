@@ -3,15 +3,11 @@
 
 ### Vista previa
 
-This set-up makes no assumptions for how distribution HTML files are handled. By default, HTML
-files will need to be located in the `dist` directory, however feel free to move to the `src`
-folder to utilise Jade templates (or other) to generate HTML.
-
 
 ```
 Project Root/
 │
-├── front/
+├── src/
 │   ├── scripts/
 │   │   ├── vendor/
 │   │   │   └── jquery.js
