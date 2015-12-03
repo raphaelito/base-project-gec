@@ -49,8 +49,12 @@ Project Root/
 $ npm install
 ```
 
+
 ### Ejecutar
+
+Nota: en entornos Windows, cambiar en gulpgile.js 'google-chrome'  por 'chrome'
 
 ```bash
 $ gulp
 ```
+
