@@ -7,7 +7,7 @@
 ```
 Project Root/
 │
-├── src/
+├── front/
 │   ├── scripts/
 │   │   ├── vendor/
 │   │   │   └── jquery.js
