@@ -42,13 +42,34 @@ Project Root/
 ```
 
 
-### Instalar
+### Requisitos
 
+__gulp__
+
+```bash
+npm install gulp -g
+```
+
+__Compass__
+
+[Descargar](http://rubyinstaller.org/downloads/) e instalar Ruby para Windows
+
+Luego ejecutar:
+```bash
+gem install sass compass
+```
+
+### Instalar
 
 ```bash
 $ npm install
 ```
 
+### Solo para usuarios Windows es necesario...
+
+```bash
+$ npm install
+```
 
 ### Ejecutar
 
@@ -57,4 +78,3 @@ Nota: en entornos Windows, cambiar en gulpgile.js 'google-chrome'  por 'chrome'
 ```bash
 $ gulp
 ```
-
