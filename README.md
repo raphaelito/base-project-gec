@@ -47,7 +47,7 @@ Project Root/
 __gulp__
 
 ```bash
-npm install gulp -g
+$ npm install gulp -g
 ```
 
 __Compass__
@@ -56,7 +56,7 @@ Usuarios windows, [Descargar](http://rubyinstaller.org/downloads/) e instalar Ru
 
 Luego ejecutar:
 ```bash
-gem install sass compass
+$ gem install sass compass
 ```
 
 ### Instalar
