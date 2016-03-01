@@ -27,7 +27,7 @@ Project Root/
 │       └── home.sass
 │
 ├── css/
-├── fonts/
+├── font/
 ├── html/
 ├── img/
 ├── js/
@@ -50,14 +50,11 @@ __gulp__
 $ npm install gulp -g
 ```
 
-__Compass__
+__~~Compass~~__
 
-Usuarios windows, [Descargar](http://rubyinstaller.org/downloads/) e instalar Ruby
+~~Usuarios windows, [Descargar](http://rubyinstaller.org/downloads/) e instalar Ruby~~
 
-Luego ejecutar:
-```bash
-$ gem install sass compass
-```
+~~Luego ejecutar:   $gem install sass compass~~
 
 ### Instalar
 
