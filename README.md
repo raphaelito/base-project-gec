@@ -64,12 +64,10 @@ $ npm install
 
 ### Ejecutar
 
-Nota: en entornos Windows, cambiar en gulpgile.js 'google-chrome'  por 'chrome'
-
 ```bash
 $ gulp
 ```
 
 __Notas__
-
+  - En entornos Windows, cambiar en gulpgile.js 'google-chrome'  por 'chrome'
   - En Sublime Text se debe tener instalado el paquete "EditorConfig" para que soporte el archivo de configuración ".editorconfig"
